@@ -45,7 +45,11 @@ To run this project locally, follow these steps:
 ## Usage
 
 **Home Page** (index.html): Browse featured books and navigate to other sections of the site.
+
 **Shop Page** (shop.html): Explore the full catalog of books available for purchase.
+
 **Cart Page** (cart.html): View books added to your shopping cart and proceed to checkout.
+
 **About Page** (about.html): Learn more about the bookstore.
+
 **Contact Page** (contact.html): Get in touch with the bookstore team for any inquiries.
